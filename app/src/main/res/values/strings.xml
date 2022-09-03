@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="welcome">WELCOME</string>
+    <string name="log_out">Log Out</string>
+    <string name="share">Share</string>
+    <string name="report_bugs_or_suggest_a_feature">Report Bugs or Suggest Features</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269797767173",
+    "project_id": "remember-235df",
+    "storage_bucket": "remember-235df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269797767173:android:078594549eb15e7c61846c",
+        "android_client_info": {
+          "package_name": "com.excavanger.remember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269797767173-i49v0dv1sbve3d0174glc98g0acii901.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvpj4aaa-0hBJVJ6dsWDxMuDYUaXVTpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269797767173-i49v0dv1sbve3d0174glc98g0acii901.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
